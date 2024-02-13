@@ -1,0 +1,55 @@
+$color-white:#fff;
+
+/***************** Log *****************/
+$log-brown-color:#3f3b00;
+$log-highlighted-color: #3f3b00;
+/***************** Log *****************/
+
+/*****************  Game hints  *****************/
+$game-hints-color:#46432f;
+$game-hints-button-color: #23221f;
+/*****************  Game  *****************/
+
+$html-color:#ebe7ef;
+
+/*****************  Body  *****************/
+$body-background-color-start: rgba(241, 210, 70, 0.98);
+$body-background-color-end: rgba(250, 176, 103, 0.87);
+$body-background-pattern: url('bg-pattern-dark.png');
+/*****************  Body  *****************/
+
+/*****************  Header  *****************/
+$header-img-filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.4));
+$header-first-color:#3f3b00;
+/*****************  Header  *****************/
+
+/*****************  Players Container  *****************/
+$players-highlight-border-color: #f6e35a;
+$players-highlight-player-active-color:#f6e35a;
+$players-button-color:#c3ba78;
+$players-button-hover-color:#f8ca31;
+/*****************  Players Container  *****************/
+
+/*****************  Player  *****************/
+$player-synbol-color: #e1dec7;
+$player-input-background-color: #46432f;
+$player-name-color:#e1dec7;
+/*****************  Player  *****************/
+
+/*****************  Game Board  *****************/
+$game-board-background-color: #aca788;
+$game-board-button-color: #3f3b00;
+/*****************  Game Board  *****************/
+
+/*****************  Game Over  *****************/
+$game-over-background-color: rgba(40, 38, 23, 0.95);
+$game-over-animation:pop-in 0.5s cubic-bezier(0.68, -0.55, 0.65, 0.52) forwards;
+$game-over-h2-color: #fcd256;
+$game-over-p-color: #e1dec7;
+$game-over-button-border-color: #fcd256;
+$game-over-button-color: #fcd256;
+$game-over-box-shadow: 0 0 8px rgba(255, 187, 0, 0.4);
+$game-over-button-hover-background: #fcd256;
+$game-over-button-hover-color: #3f3b00;
+$game-over-button-hover-transform: scale(1.1);
+$game-over-button-hover-box-shadow: 0 0 20px rgba(255, 187, 0, 0.8);
